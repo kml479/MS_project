@@ -1,0 +1,16 @@
+﻿global using CourseSales.Services.Basket.Consumers;
+global using CourseSales.Services.Basket.Models.Basket;
+global using CourseSales.Services.Basket.Services;
+global using CourseSales.Services.Basket.Services.Redis;
+global using CourseSales.Services.Basket.Settings;
+global using CourseSales.Shared.Controllers;
+global using CourseSales.Shared.DataTransferObjects;
+global using CourseSales.Shared.Services;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Authorization;
+global using StackExchange.Redis;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Net;
+global using System.Text.Json;
