@@ -47,9 +47,3 @@ To get started with the project, follow these steps:
 ## Conclusion
 
 This project is designed to simulate a course sales site using microservices. It uses technologies such as .NET Core, Docker, and Ocelot to provide a scalable and reliable system.
-
-
-#### Contact Addresses
-##### Linkedin: [Send a message on Linkedin](https://www.linkedin.com/in/cihatsolak/)
-##### Twitter: [Go to @cihattsolak](https://twitter.com/cihattsolak)
-##### Medium: [Read from medium](https://cihatsolak.medium.com/)
